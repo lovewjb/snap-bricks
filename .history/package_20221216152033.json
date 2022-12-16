@@ -20,11 +20,9 @@
     "name": "lovewjb",
     "email": "18561306587@163.com"
   },
-  "build": {
-    "win": {
-      "icon": "./build/icon/icon.ico"
-    }
-  },
+  "win": {
+      "icon": "./build/"
+    },
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
