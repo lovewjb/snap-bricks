@@ -1,0 +1,12 @@
+{
+  "files.defaultLanguage": "html",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.linkedEditing": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "search-online.search-engine": "Bing",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay"
+}
