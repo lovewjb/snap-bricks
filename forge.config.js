@@ -1,6 +1,6 @@
 module.exports = {
   packagerConfig: {
-    name: "打砖块小游戏客户端",
+    name: "snapbricks",
     executableName: "App",
     icon: "./build/icon",
   },
